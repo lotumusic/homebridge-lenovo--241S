@@ -1,13 +1,13 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "homebridge-lenovo-241s",
+  "displayName": "Lenovo 241S LED Strip Light",
   "type": "module",
   "version": "1.0.0",
   "private": true,
   "description": "A short description about what your plugin does.",
   "author": "Your Name",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/USERNAME/GITHUB_PROJECT_NAME#readme",
+  "homepage": "https://github.com/lotumusic/homebridge-lenovo--241S#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
