@@ -10,10 +10,10 @@
   "homepage": "https://github.com/lotumusic/homebridge-lenovo--241S#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/lotumusic/homebridge-lenovo--241S.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/lotumusic/homebridge-lenovo--241S/issues"
   },
   "keywords": [
     "homebridge-plugin"

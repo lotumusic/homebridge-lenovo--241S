@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "LenovoLinkPro",
   "pluginType": "platform",
   "singular": true,
   "schema": {
